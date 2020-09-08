@@ -2,6 +2,9 @@
 
 require 'vendor/autoload.php';
 
+Teste::metodo();
+exit();
+
 use Alura\BuscadorDeCursos\Buscador;
 use GuzzleHttp\Client;
 use Symfony\Component\DomCrawler\Crawler;
