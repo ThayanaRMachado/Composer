@@ -1,0 +1,12 @@
+{
+    "name": "thayanarmachado/buscador-cursos",
+    "description": "Projeto que busca cursos no site da alura",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Thayana R Machado",
+            "email": "thayanarm@hotmail.com"
+        }
+    ],
+    "require": {}
+}
