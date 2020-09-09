@@ -2,7 +2,7 @@
 
 return [
 
-    "target_php_version" => '7.4',
+    "target_php_version" => null,
 
     'directory_list' => [
         'src',
