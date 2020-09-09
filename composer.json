@@ -27,6 +27,8 @@
         "test": "phpunit tests\\TestBuscadorDeCursos.php",
         "cs": "phpcs --standard=PSR12 src/",
         "phan": "phan --allow-polyfill-parser",
+        "ls": "dir",
+        "limpa-cache": "del cache",
         "check": [
             "@phan",
             "@cs",
